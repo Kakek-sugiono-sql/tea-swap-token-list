@@ -83,6 +83,13 @@
       "name": "tea ea",
       "symbol": "ea",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xc998F150999acaC9CdC311CC739c869FEBC01A65",
+      "name": "Assam Tea",
+      "symbol": "ATEA",
+      "decimals": 18
     }
   ],
   "version": {
