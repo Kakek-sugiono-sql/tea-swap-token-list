@@ -83,6 +83,14 @@
       "name": "tea ea",
       "symbol": "ea",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xd8681C1F60Ba30982292CD22982Aa2A9f30adf2c",
+      "name": "Airdrop Intelligent Testnet",
+      "symbol": "AIT",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/logo/main/20250123_104815.png",
+      "decimals": 18
     }
   ],
   "version": {
