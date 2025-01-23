@@ -14,6 +14,13 @@
       "symbol": "butt",
       "decimals": 18
     },
+    {
+      "chainId": 93384,
+      "address": "0x623769444c1BA04c55A4690bDD2955cD4f089bb7",
+      "name": "Blurtopian",
+      "symbol": "BLTPN",
+      "decimals": 18
+    },
   	{
       "chainId": 93384,
       "address": "0x1B54e5BBb545245f4c468929D64dAbb479aE055e",
