@@ -19,6 +19,7 @@
       "address": "0x623769444c1BA04c55A4690bDD2955cD4f089bb7",
       "name": "Blurtopian",
       "symbol": "BLTPN",
+      "logoURI" "https://raw.githubusercontent.com/blurtopian/assets/refs/heads/main/logo.png",
       "decimals": 18
     },
   	{
