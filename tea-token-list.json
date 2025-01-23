@@ -14,6 +14,14 @@
       "symbol": "butt",
       "decimals": 18
     },
+    {
+      "chainId": 93384,
+      "address": "0x623769444c1BA04c55A4690bDD2955cD4f089bb7",
+      "name": "Blurtopian",
+      "symbol": "BLTPN",
+      "logoURI" "https://raw.githubusercontent.com/blurtopian/assets/refs/heads/main/logo.png",
+      "decimals": 18
+    },
   	{
       "chainId": 93384,
       "address": "0x1B54e5BBb545245f4c468929D64dAbb479aE055e",
@@ -86,6 +94,13 @@
     },
     {
       "chainId": 93384,
+      "address": "0xc998F150999acaC9CdC311CC739c869FEBC01A65",
+      "name": "Assam Tea",
+      "symbol": "ATEA",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
       "address": "0xd8681C1F60Ba30982292CD22982Aa2A9f30adf2c",
       "name": "Airdrop Intelligent Testnet",
       "symbol": "AIT",
@@ -96,6 +111,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
