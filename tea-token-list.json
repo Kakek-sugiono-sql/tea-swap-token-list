@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-01-19T20:37:00.000+00:00",
+  "timestamp": "2024-01-24T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 93384,
@@ -56,7 +56,7 @@
       "address": "0x2F3754Cb1F05fE6701C76603B1c69830347F5B3A",
       "name": "YERIM",
       "symbol": "YRM",
-      "logoURI": https://raw.githubusercontent.com/furidngrt/EMV-Address/refs/heads/master/yrm.jpeg
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/EMV-Address/refs/heads/master/yrm.jpeg",
       "decimals": 18
     },
   	{
@@ -113,6 +113,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 4
+    "patch": 5
   }
 }
