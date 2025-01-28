@@ -116,6 +116,14 @@
       "symbol": "AIT",
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/logo/main/20250123_104815.png",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x50dCB6e1f907632Fb145459faCE86E358c1Cfb0B",
+      "name": "Assam AI Alliance",
+      "symbol": "AAA",
+      "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
+      "decimals": 18
     }
   ],
   "version": {
