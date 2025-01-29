@@ -124,6 +124,14 @@
       "symbol": "AAA",
       "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xB6FD54D9102422f8D167C82803f875CD914d08bB",
+      "name": "Gula",
+      "symbol": "GULA",
+      "logoURI": "https://raw.githubusercontent.com/Yunnie-pin/laporan-mbkm-generator/refs/heads/main/laporan-mbkm-generator/src/assets/gula-white.png",
+      "decimals": 18
     }
   ],
   "version": {
