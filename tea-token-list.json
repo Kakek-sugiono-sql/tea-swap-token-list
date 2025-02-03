@@ -118,6 +118,14 @@
       "decimals": 18
     },
     {
+       "chainId": 93384,
+      "address": "0x19dab75B9D703f5a7e176CD08d5A29676aaB94fc",
+      "name": "MeowTea Token",
+      "symbol": "MTT",
+      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/main/20250204_042205_0000.png"
+      "decimals": 18
+    },
+    {
       "chainId": 93384,
       "address": "0x50dCB6e1f907632Fb145459faCE86E358c1Cfb0B",
       "name": "Assam AI Alliance",
