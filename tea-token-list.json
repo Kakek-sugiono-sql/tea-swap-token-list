@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-01-24T20:37:00.000+00:00",
+  "timestamp": "2024-02-05T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 93384,
@@ -118,11 +118,11 @@
       "decimals": 18
     },
     {
-       "chainId": 93384,
+      "chainId": 93384,
       "address": "0x19dab75B9D703f5a7e176CD08d5A29676aaB94fc",
       "name": "MeowTea Token",
       "symbol": "MTT",
-      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/main/20250204_042205_0000.png"
+      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/main/20250204_042205_0000.png",
       "decimals": 18
     },
     {
@@ -145,6 +145,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 6
+    "patch": 7
   }
 }
