@@ -140,7 +140,15 @@
       "symbol": "GULA",
       "logoURI": "https://raw.githubusercontent.com/Yunnie-pin/laporan-mbkm-generator/refs/heads/main/laporan-mbkm-generator/src/assets/gula-white.png",
       "decimals": 18
-    }
+    },
+    {
+      "chainId": 93384,
+      "address": "0xC4341CB2C976306AE9169efb3d8301ea287a3128",
+      "name": "BITCOIN",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/907d5668adf1c621ab1b094e151e3d34a85058ac/converted_image.png",
+      "decimals": 18
+    },
   ],
   "version": {
     "major": 3,
